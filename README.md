@@ -1,13 +1,5 @@
 # Foundry NFT
 
-
-example : data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+PHRleHQgeD0iMCIgeT0iMTUiIGZpbGw9ImJsYWNrIj5IaSEgWW91ciBicm93c2VyIGRlY29kZWQgdGhpczwvdGV4dD48L3N2Zz4=
-This is a section of the Cyfrin Foundry Solidity Course.
-
-*[⭐️ (7:40:56) | Lesson 11: Foundry NFT](https://www.youtube.com/watch?v=sas02qSFZ74&t=27656s)*
-
-We go through creating 2 different kinds of NFTs.
-
 1. An IPFS Hosted NFT 
 2. An SVG NFT (Hosted 100% on-chain) 
 
